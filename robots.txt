@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magical-starship-8cfa4a.netlify.app/sitemap.xml
