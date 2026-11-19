@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://magical-starship-8cfa4a.netlify.app/sitemap.xml
+Sitemap: https://youraff.github.io/earn-amazon-gift-card-nigeria-2026/sitemap.xml
